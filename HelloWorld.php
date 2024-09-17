@@ -7,6 +7,6 @@ echo $tekst;
 echo $tekst;
 echo $tekst;
 echo $tekst; 
-g
+
 
  ?>
