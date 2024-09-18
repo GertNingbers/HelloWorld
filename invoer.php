@@ -15,6 +15,9 @@ echo "\n";
 $invoer4 = readline("wat zijn jou hobby's?: ");
 echo "\n";
 
+$invoer5 = readline("wat is je doel?: ");
+echo "\n";
+
 echo "hallo mijn naam is: $invoer $invoer1";
 echo "\n";
 echo "ik ben $invoer2 jaar oud";
@@ -22,6 +25,8 @@ echo "\n";
 echo "ik woon in $invoer3";
 echo "\n";
 echo "en mijn hobby's zijn $invoer4";
+echo "\n";
+echo "Mijn doel is $invoer5";
 echo "\n";
 
 ?>
