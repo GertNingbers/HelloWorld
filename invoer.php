@@ -5,7 +5,7 @@ $invoer1 = readline("jouw achternaam?: ");
 $invoer2 = readline("en hoe oud ben je?: ");
 $invoer3 = readline("waar woon je?: ");
 $invoer4 = readline("wat zijn jou hobby's?: ");
-$invoer5 = readline("wat is je doel?: ");
+$invoer5 = readline("Wat is je doel?: ");
 echo "\n";
 
 echo "hallo mijn naam is: $invoer $invoer1";
